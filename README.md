@@ -3,6 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E6%9D%BE%E6%9C%AC+%E3%82%BF%E3%83%81%E3%82%A2%E3%83%8A+%E3%81%A7%E3%81%99%E3%80%82%F0%9F%8C%B8)](https://git.io/typing-svg)
 
 <!-- Make a banner to put here -->
+<div align="center">
+    <img max-width="700" max-height="300" src="banner.png"/>
+</div>
 
 <!--  Change fonts -->
 
