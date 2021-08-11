@@ -1,24 +1,35 @@
-# こんにちは、私の名前は 松本 タチアナ です。🌸
+#  4F 69 0D 0A 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E6%9D%BE%E6%9C%AC+%E3%82%BF%E3%83%81%E3%82%A2%E3%83%8A+%E3%81%A7%E3%81%99%E3%80%82%F0%9F%8C%B8)](https://git.io/typing-svg)
 
 <!-- Make a banner to put here -->
+
 <!--  Change fonts -->
-<!--  Put Stacoverflow profile-->
-- 🖐🏻 Pronomes: ela/dela (she/her)
-- 🎓 Graduada com Honra Láurea em Tecnologia de Análise e Desenvolvimento de sistemas 
+
+- 🖐🏻 Pronomes: ela/dela (she/her) || elu/delu (they/them)
+- 🎓 Graduada com Honra Láurea em Tecnologia de Análise e Desenvolvimento de Sistemas em Dracena City
 - 💫 Tenho interesse em RPGs, Visual Novels, Jogos Mobiles, UX Design & UX Writing. 
 - 🍀 Meus hobbys são assistir animes, ler, jogar, escrever e desenhar. 
+- 💛 Posso colaborar em ONGs, me mande uma mensagem! 
 
-. ..- / --. --- ... - --- / -.. . / .- .--. .-. . -. -.. . .-. / --- / --.- ..- . / -- . / -.. . .-. / ...- --- -. - .- -.. .
+<samp> 
+    . ..- / --. --- ... - --- / -.. . / .- .--. .-. . -. -.. . .-. / .- ... ... ..- -. - --- ... / ...- .- .-. .. .- -.. --- ... 
+</samp>
+
+<!--  
+ <img height="137px"
+  src="https://stackoverflow-card.vercel.app/?userID=16270358&theme=dracula"
+/> -->
 
 <!-- Put whatever i current learning here -->
 <!-- Put a curriculum here -->
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=FF69B4&lines=Love+being+yourself+%E2%9C%A8)](https://git.io/typing-svg)
+
 
 <!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
  -->
- 
- 
+
+
 
 <!-- <div>
 <!--   <a href="https://github.com/TatianaMatumoto">
