@@ -8,11 +8,11 @@
 
 <br>
 
-- 🖐🏻 Pronomes: ela/dela (she/her) || elu/delu (they/them)
-- 🎓 Graduada com Honra Láurea em Tecnologia de Análise e Desenvolvimento de Sistemas em Dracena City
-- 💫 Tenho interesse em RPGs, Visual Novels, Jogos Mobiles, UX Design & UX Writing. 
-- 🍀 Meus hobbys são assistir animes, ler, jogar, escrever e desenhar. 
-- 💛 Posso colaborar em ONGs, me mande uma mensagem! 
+- 🖐🏻 &nbsp; Pronomes: ela/dela (she/her) || elu/delu (they/them)
+- 🎓 &nbsp; Graduada com Honra Láurea em Tecnologia de Análise e Desenvolvimento de Sistemas em Dracena City
+- 💫 &nbsp; Tenho interesse em RPGs, Visual Novels, Jogos Mobiles, UX Design & UX Writing. 
+- 🍀 &nbsp; Meus hobbys são assistir animes, ler, jogar, escrever e desenhar. 
+- 💛 &nbsp; Posso colaborar em ONGs, me mande uma mensagem! 
 
 <samp> 
     . ..- / --. --- ... - --- / -.. . / .- .--. .-. . -. -.. . .-. / .- ... ... ..- -. - --- ... / ...- .- .-. .. .- -.. --- ... 
@@ -26,12 +26,8 @@
 <!-- Put whatever i current learning here -->
 <!-- Put a curriculum here -->
 
-
-
 <!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
  -->
-
-
 
 <!-- <div>
 <!--   <a href="https://github.com/TatianaMatumoto">
@@ -74,11 +70,7 @@
 <!-- Missing Medibang and Canvas badget.     -->
 <!-- </div> -->
   
-  
-  
 <!--   
-  
-  
  [![trophy](https://github-profile-trophy.vercel.app/?username=TatianaMatumoto&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TatianaMatumoto&theme=dracula)](https://git.io/streak-stats)
@@ -87,6 +79,5 @@
   
   ![](https://komarev.com/ghpvc/?username=TatianaMatumoto&color=ff69b4
 )
-
  -->
 <!--   ##  -->
