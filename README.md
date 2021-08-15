@@ -8,7 +8,7 @@
 
 <br>
 
-- 🖐🏻 &nbsp; Pronomes: ela/dela (she/her) || elu/delu (they/them)
+- 🖐🏻 &nbsp; Pronomes: ela/dela (she/her) | | elu/delu (they/them)
 - 🎓 &nbsp; Graduada com Honra Láurea em Tecnologia de Análise e Desenvolvimento de Sistemas em Dracena City
 - 💫 &nbsp; Tenho interesse em RPGs, Visual Novels, Jogos Mobiles, UX Design & UX Writing. 
 - 🍀 &nbsp; Meus hobbys são assistir animes, ler, jogar, escrever e desenhar. 
@@ -20,7 +20,7 @@
 
 <!--  
  <img height="137px"
-  src="https://stackoverflow-card.vercel.app/?userID=16270358&theme=dracula"
+  src="https://stackoverflow-card.vercel.app/?userID=16270358&theme=dracula" 
 /> -->
 
 <!-- Put whatever i current learning here -->
@@ -71,13 +71,12 @@
 <!-- </div> -->
   
 <!--   
- [![trophy](https://github-profile-trophy.vercel.app/?username=TatianaMatumoto&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TatianaMatumoto&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TatianaMatumoto&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TatianaMatumoto&theme=dracula)](https://git.io/streak-stats)
   
- [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=312qn427j2qmkbxhuyrl5a5722ze)](https://open.spotify.com/user/312qn427j2qmkbxhuyrl5a5722ze)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=312qn427j2qmkbxhuyrl5a5722ze)](https://open.spotify.com/user/312qn427j2qmkbxhuyrl5a5722ze)
   
-  ![](https://komarev.com/ghpvc/?username=TatianaMatumoto&color=ff69b4
-)
+ ![](https://komarev.com/ghpvc/?username=TatianaMatumoto&color=ff69b4)
  -->
-<!--   ##  -->
+##
