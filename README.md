@@ -12,30 +12,19 @@
 - 🎓 &nbsp; Graduada com Honra Láurea em Tecnologia de Análise e Desenvolvimento de Sistemas em Dracena City
 - 💫 &nbsp; Tenho interesse em RPGs, Visual Novels, Jogos Mobiles, UX Design & UX Writing. 
 - 🍀 &nbsp; Meus hobbys são assistir animes, ler, jogar, escrever e desenhar. 
-- 💛 &nbsp; Posso colaborar em ONGs, me mande uma mensagem! 
+- 💛 &nbsp; Posso colaborar em ONGs, me mande uma mensagem sobre seu projeto! 
 
 <samp> 
     . ..- / --. --- ... - --- / -.. . / .- .--. .-. . -. -.. . .-. / .- ... ... ..- -. - --- ... / ...- .- .-. .. .- -.. --- ... 
 </samp>
+ 
+<br> 
 
-<!--  
- <img height="137px"
-  src="https://stackoverflow-card.vercel.app/?userID=16270358&theme=dracula" 
-/> -->
 
 <!-- Put whatever i current learning here -->
 <!-- Put a curriculum here -->
-
-<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
- -->
-
-<!-- <div>
-<!--   <a href="https://github.com/TatianaMatumoto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TatianaMatumoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaMatumoto&layout=compact&langs_count=7&theme=dracula"/>
-</div> -->
-  
-<!-- <div style="display: inline_block"><br>
+   
+<div style="display: inline_block"><br>
   <img align="center" alt="Tati-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tati-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Tati-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -48,16 +37,25 @@
   <img align="center" alt="Tati-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Tati-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Tati-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Tati-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"> -->
-<!-- </div>
-    <a><img align="right" alt="rocket" height="120" width="140" src="https://i.kym-cdn.com/photos/images/original/001/082/810/314.gif"></a>
+  <img align="center" alt="Tati-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+</div>    
+
+<br>
+
+## 💡 Status 
+
+<div>
+    <a href="https://github.com/TatianaMatumoto">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=TatianaMatumoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaMatumoto&layout=compact&langs_count=7&theme=dracula"/>
+    </a>    
+    <img height="137px" src="https://stackoverflow-card.vercel.app/?userID=16270358&theme=dracula"/> 
 </div>
   
-  </div> 
-  
-  
  ##
-   -->
+  <!-- </div>
+    <a><img align="right" alt="rocket" height="120" width="140" src="https://i.kym-cdn.com/photos/images/original/001/082/810/314.gif">
+-->
 <!--  <div> 
   <a href="https://www.youtube.com/channel/UCjGFkOjdBSa2E0ralpp8VxA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/tatiana_narumi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -80,3 +78,5 @@
  ![](https://komarev.com/ghpvc/?username=TatianaMatumoto&color=ff69b4)
  -->
 ##
+
+<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes) --> 
