@@ -16,7 +16,7 @@
 - 🍀 &nbsp; Meus hobbys são assistir animes, ler, jogar, escrever e desenhar. 
 - 💛 &nbsp; Posso colaborar em ONGs, me mande uma mensagem sobre seu projeto! 
 - 📖 &nbsp; Atualmente me aprofundando em React Native
-- 🚧 &nbsp; Currículo em construção  
+- 🎀 &nbsp; <a href="https://github.com/TatianaMatumoto/curriculum"> Currículo </a>
 
 <!-- <img align="right" alt="rocket" height="120" width="140" src="https://i.kym-cdn.com/photos/images/original/001/082/810/314.gif"> -->
 
