@@ -16,9 +16,10 @@
 - 🍀 &nbsp; Meus hobbys são assistir animes, ler, jogar, escrever e desenhar. 
 - 💛 &nbsp; Posso colaborar em ONGs, me mande uma mensagem sobre seu projeto! 
 - 📖 &nbsp; Atualmente me aprofundando em React Native
-- 🚧 &nbsp; Currículo em construção 
+- 🚧 &nbsp; Currículo em construção  
 
 <!-- <img align="right" alt="rocket" height="120" width="140" src="https://i.kym-cdn.com/photos/images/original/001/082/810/314.gif"> -->
+
 <samp> 
     . ..- / --. --- ... - --- / -.. . / .- .--. .-. . -. -.. . .-. / .- ... ... ..- -. - --- ... / ...- .- .-. .. .- -.. --- ... 
 </samp>
@@ -49,8 +50,6 @@
 
 ## ✨ &nbsp; Status 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TatianaMatumoto&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
 <div>
     <a href="https://github.com/TatianaMatumoto">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=TatianaMatumoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -65,24 +64,42 @@
     </a>
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=TatianaMatumoto&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://komarev.com/ghpvc/?username=TatianaMatumoto&color=ff69b4) 
+
 <br>
   
  ## 💫 &nbsp; Sigam-me
 
 <div>
-    <a href="https://www.youtube.com/channel/UCjGFkOjdBSa2E0ralpp8VxA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/tatiana_narumi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.twitch.tv/tatiana_nm" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/tatiana-matumoto-71219b147/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://twitter.com/tatiananm7" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-    <a href="https://www.tiktok.com/@tatianamatumoto?lang=pt-BR" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
-    <a href="https://steamcommunity.com/id/tatianamatumoto/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
-    <a href="https://tatiananm.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
+    <a href="https://www.youtube.com/channel/UCjGFkOjdBSa2E0ralpp8VxA" target="_blank"> 
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.instagram.com/tatiana_narumi/" target="_blank">
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.twitch.tv/tatiana_nm" target="_blank">
+        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/tatiana-matumoto-71219b147/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a> 
+    <a href="https://twitter.com/tatiananm7" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+    </a> 
+    <a href="https://www.tiktok.com/@tatianamatumoto?lang=pt-BR" target="_blank">
+        <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank">
+    </a> 
+    <a href="https://steamcommunity.com/id/tatianamatumoto/" target="_blank">
+        <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
+    </a> 
+    <a href="https://tatiananm.itch.io/" target="_blank">
+        <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank">
+    </a>
     <br>
     <br>
      <img height="137px" src="https://stackoverflow-card.vercel.app/?userID=16270358&theme=dracula"/> 
 </div>
   
 <br> 
-
-![](https://komarev.com/ghpvc/?username=TatianaMatumoto&color=ff69b4)
