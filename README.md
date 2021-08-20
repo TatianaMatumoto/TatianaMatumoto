@@ -97,6 +97,12 @@
     <a href="https://tatiananm.itch.io/" target="_blank">
         <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank">
     </a>
+    <a href="https://medibang.com/u/tatiananm7/" target="_blank">
+        <img src="assets/icon-medibangpaint.png" height="28" width="28" target="_blank">
+    </a>
+    <a href="https://fanfiction.com.br/u/606563/" target="_blank">
+        <img src="assets/wattpad.png" height="28" width="80" target="_blank">
+    </a>
     <br>
     <br>
      <img height="137px" src="https://stackoverflow-card.vercel.app/?userID=16270358&theme=dracula"/> 
