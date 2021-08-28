@@ -43,7 +43,7 @@
   <img align="center" alt="Tati-Node" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img align="center" alt="Tati-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Tati-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt="Tati-Medibang" height="30" width="30" src="assets/icon-medibangpaint.png">
+  <img align="center" alt="Tati-Medibang" height="28" width="28" src="assets/icon-medibangpaint.png">
   <img align="center" alt="Tati-Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
   <img align="center" alt="Tati-MD" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   <img align="center" alt="Tati-Styled" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
