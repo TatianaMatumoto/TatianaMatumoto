@@ -125,6 +125,12 @@
     </a> 
     <a href="https://www.tiktok.com/@tatianamatumoto?lang=pt-BR" target="_blank">
         <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank">
+    </a>
+    <a href="https://dev.to/tatiananm7" target="_blank">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank">
+    </a> 
+    <a href="https://medium.com/@arumi.matsumoto" target="_blank">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
     </a> 
     <a href="https://steamcommunity.com/id/tatianamatumoto/" target="_blank">
         <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
