@@ -10,14 +10,14 @@
 
 <br>
 
-- 🖐🏻 &nbsp; Pronomes: ela/dela (she/her) | | elu/delu (they/them)
-- 🎓 &nbsp; Graduada com Honra Láurea em Tecnologia de Análise e Desenvolvimento de Sistemas em Dracena
+- 🖐🏻 &nbsp; Pronomes: ela/dela (she/her) | | elu/delu (they/them).
+- 🎓 &nbsp; Graduada com Honra Láurea em Tecnologia de Análise e Desenvolvimento de Sistemas em Dracena.
 - 💫 &nbsp; Tenho interesse em RPGs, Visual Novels, Jogos Mobiles, UX Design & UX Writing. 
 - 🍀 &nbsp; Meus hobbys são assistir animes, ler, jogar, escrever e desenhar. 
 - 💛 &nbsp; Posso colaborar em ONGs, me mande uma mensagem sobre seu projeto! 
-- 📖 &nbsp; Atualmente me aprofundando em React Native
-- 🎀 &nbsp; <a href="https://github.com/TatianaMatumoto/curriculum"> Currículo Multipotencial </a>
-- 💻 &nbsp; <a href="https://github.com/TatianaMatumoto/curriculum-tech"> Currículo focado em tecnologia </a>
+- 📖 &nbsp; Atualmente me aprofundando em React Native.
+- 🎀 &nbsp; <a href="https://github.com/TatianaMatumoto/curriculum"> Currículo Multipotencial. </a>
+- 💻 &nbsp; <a href="https://github.com/TatianaMatumoto/curriculum-tech"> Currículo focado em tecnologia. </a>
 
 <!-- <img align="right" alt="rocket" height="120" width="140" src="https://i.kym-cdn.com/photos/images/original/001/082/810/314.gif"> -->
 
