@@ -11,7 +11,7 @@
 <br>
 
 - 🖐🏻 &nbsp; Pronomes: ela/dela (she/her) | | elu/delu (they/them)
-- 🎓 &nbsp; Graduada com Honra Láurea em Tecnologia de Análise e Desenvolvimento de Sistemas em Dracena City
+- 🎓 &nbsp; Graduada com Honra Láurea em Tecnologia de Análise e Desenvolvimento de Sistemas em Dracena
 - 💫 &nbsp; Tenho interesse em RPGs, Visual Novels, Jogos Mobiles, UX Design & UX Writing. 
 - 🍀 &nbsp; Meus hobbys são assistir animes, ler, jogar, escrever e desenhar. 
 - 💛 &nbsp; Posso colaborar em ONGs, me mande uma mensagem sobre seu projeto! 
