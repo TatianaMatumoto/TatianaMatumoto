@@ -27,7 +27,7 @@
  
 <br> 
    
-## 👑 &nbsp; Conhecimentos
+## 📚 &nbsp; Conhecimentos
 
 <div style="display: inline_block">
 <br>
