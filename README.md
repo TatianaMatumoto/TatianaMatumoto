@@ -108,14 +108,8 @@
  ## 💫 &nbsp; Sigam-me
 
 <div>
-    <a href="https://www.youtube.com/channel/UCjGFkOjdBSa2E0ralpp8VxA" target="_blank"> 
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-    </a>
     <a href="https://www.instagram.com/tatiana_narumi/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.twitch.tv/tatiana_nm" target="_blank">
-        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
     </a>
     <a href="https://www.linkedin.com/in/tatiana-matumoto-71219b147/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
