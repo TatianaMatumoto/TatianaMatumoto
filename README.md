@@ -108,38 +108,9 @@
  ## 💫 &nbsp; Sigam-me
 
 <div>
-    <a href="https://www.instagram.com/tatiana_narumi/" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
     <a href="https://www.linkedin.com/in/tatiana-matumoto-71219b147/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a> 
-    <a href="https://twitter.com/tatiananm7" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
-    </a> 
-    <a href="https://www.tiktok.com/@tatianamatumoto?lang=pt-BR" target="_blank">
-        <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank">
-    </a>
-    <a href="https://dev.to/tatiananm7" target="_blank">
-        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank">
-    </a> 
-    <a href="https://medium.com/@arumi.matsumoto" target="_blank">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
-    </a> 
-    <a href="https://steamcommunity.com/id/tatianamatumoto/" target="_blank">
-        <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
-    </a> 
-    <a href="https://tatiananm.itch.io/" target="_blank">
-        <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank">
-    </a>
-    <a href="https://medibang.com/u/tatiananm7/" target="_blank">
-        <img src="assets/icon-medibangpaint.png" height="28" width="28" target="_blank">
-    </a>
-    <a href="https://fanfiction.com.br/u/606563/" target="_blank">
-        <img src="assets/wattpad.png" height="28" width="80" target="_blank">
-    </a>
-     <a href="https://myanimelist.net/profile/Tatiana_" target="_blank">
-        <img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" target="_blank">
     </a> 
     <br>
     <br>
