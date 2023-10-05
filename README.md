@@ -97,11 +97,6 @@
  ## 💫 &nbsp; Sigam-me
 
 <div>
-    </a>
-    <a href="https://www.linkedin.com/in/tatiana-matumoto-71219b147/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a> 
-    <br>
     <br>
      <img height="137px" src="https://stackoverflow-card.vercel.app/?userID=16270358&theme=dracula"/> 
 </div>
