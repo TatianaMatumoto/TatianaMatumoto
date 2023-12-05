@@ -90,12 +90,14 @@
 ![](https://komarev.com/ghpvc/?username=TatianaMatumoto&color=ff69b4) 
 
 <br>
-  
+
+  <!-- 
  ## 💫 &nbsp; Sigam-me
 
 <div>
     <br>
      <img height="137px" src="https://stackoverflow-card.vercel.app/?userID=16270358&theme=dracula"/> 
 </div>
+-->
   
 <br> 
